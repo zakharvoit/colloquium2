@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Colloquium2</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Голосование</string>
     <string name="action_settings">Settings</string>
+    <string name="start">Начать голосование</string>
+    <string name="stop">Закончить голосование</string>
+    <string name="title_activity_view_results">Результаты голосования</string>
+    <string name="add_candidate">Добавить кандидата</string>
+    <string name="clear">Очистить</string>
 
 </resources>
